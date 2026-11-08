@@ -4,14 +4,6 @@
 
 This software incorporates patented technology owned by RAHUL MAHATO.
 
-### Patent Details
-
-**Patent Holder:** RAHUL MAHATO  
-**Patent Status:** Patented Technology  
-**Filing Date:** [Insert Filing Date]  
-**Grant Date:** [Insert Grant Date]  
-**Patent Number(s):** [Insert Patent Number(s)]  
-**Jurisdiction:** [Insert Applicable Jurisdictions]
 
 ## Patented Technologies
 
@@ -88,9 +80,7 @@ Patent protection may be sought or obtained in multiple jurisdictions. Users out
 
 For commercial licensing inquiries or patent-related questions:
 
-**Patent Holder:** RAHUL MAHATO  
-**Email:** [Insert Contact Email]  
-**GitHub:** [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)  
+
 
 ## Disclaimer
 
