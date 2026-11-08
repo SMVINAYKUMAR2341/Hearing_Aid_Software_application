@@ -447,31 +447,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### Commercial Licensing
 
-For commercial use, OEM integration, or licensing inquiries, contact:
 
-**SM VINAY KUMAR**  
-GitHub: [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)  
-Repository: [Hearing Aid Software Application](https://github.com/Rxhulmxhxto29/Hearing_Aid_Software_application)
-
-### Legal Documents
-
-- 📜 [COPYRIGHT.md](COPYRIGHT.md) - Complete copyright information
-- 🔒 [PATENT.md](PATENT.md) - Patent details and licensing terms
-- ⚖️ [LICENSE](LICENSE) - MIT License text
-- 🤝 [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
-
----
-
-## 👤 Author
-
-**SM VINAY KUMAR**
-
-- GitHub: [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)
-- Repository: [Hearing Aid Software Application](https://github.com/Rxhulmxhxto29/Hearing_Aid_Software_application)
-
----
 
 ## 🙏 Acknowledgments
 
